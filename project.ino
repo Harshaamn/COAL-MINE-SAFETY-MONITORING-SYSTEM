@@ -3,7 +3,7 @@
 
 // Wi-Fi credentials
 #define WIFI_SSID "harsha"
-#define WIFI_PASSWORD "9394499669"
+#define WIFI_PASSWORD "9***"
 
 // Firebase credentials
 #define DATABASE_URL "https://fuzzy-5eb11-default-rtdb.firebaseio.com"
