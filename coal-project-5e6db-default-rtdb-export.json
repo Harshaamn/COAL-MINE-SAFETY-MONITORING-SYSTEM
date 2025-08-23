@@ -1,0 +1,60 @@
+{
+  "blocks": {
+    "block1": {
+      "node1": {
+        "buzzer": false,
+        "gas": 581,
+        "humi": 83,
+        "temp": 31.8
+      },
+      "node2": {
+        "buzzer": false,
+        "gas": 300,
+        "humi": 40,
+        "temp": 28
+      }
+    },
+    "block2": {
+      "node1": {
+        "buzzer": false,
+        "gas": 200,
+        "humi": 60,
+        "temp": 35
+      },
+      "node2": {
+        "buzzer": false,
+        "gas": 350,
+        "humi": 68,
+        "temp": 29
+      }
+    },
+    "block3": {
+      "node1": {
+        "buzzer": false,
+        "gas": 450,
+        "humi": 75,
+        "temp": 33
+      },
+      "node2": {
+        "buzzer": false,
+        "gas": 500,
+        "humi": 72,
+        "temp": 31
+      }
+    },
+    "block4": {
+      "node1": {
+        "buzzer": false,
+        "gas": 400,
+        "humi": 70,
+        "temp": 33
+      },
+      "node2": {
+        "buzzer": false,
+        "gas": 400,
+        "humi": 70,
+        "temp": 37
+      }
+    }
+  }
+}
